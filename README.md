@@ -12,9 +12,8 @@
 ## Screenshots of essential code
 HTML|
 :--------------:
-<img src="images/html-code.jpg" alt="HTML" width="400"/>
+![alt HTML](images/html-code.jpg)
 
 CSS 1             |  CSS 2
 :-------------------------:|:-------------------------:
-<img src="images/css-1.jpg" alt="CSS-1" width="400"/>  |  <img src="images/css-2.jpg" alt="CSS-1" width="400"/>
-
+![alt CSS 1](images/css-1.jpg) |![alt CSS 2](images/css-2.jpg)
